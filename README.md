@@ -11,5 +11,3 @@ Completed 4 tasks covering network security, phishing awareness, and secure codi
 
 ## 📜 Certificate
 Successfully completed all requirements for the CodeAlpha internship program.
-
-🔗 **GitHub Link**: [https://github.com/muzamal478/CodeAlpha_Cybersecurity_Internship](https://github.com/muzamal478/CodeAlpha_Cybersecurity_Internship)

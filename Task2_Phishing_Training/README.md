@@ -2,8 +2,8 @@
 Resources to educate about phishing attacks.
 
 ## 🎯 Resources
-- `Phishing_Guide.pptx`: AI-generated PowerPoint
-- `Training_Video.mp4`: 2-min explainer 
+- `Phishing_Guide.pptx`: Presentation
+- `Training_Video.mp4`: Walkthrough
 
 ## 📝 Presentation Content
 ### Slide 1: Title 
